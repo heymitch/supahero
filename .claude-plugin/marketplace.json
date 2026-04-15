@@ -1,9 +1,13 @@
 {
   "name": "supahero",
-  "version": "1.0.0",
-  "description": "Supabase superpowers for Claude Cowork. Build edge functions, debug failures, ship real infrastructure — all from natural language, no terminal.",
-  "author": {
-    "name": "Mitch Harris"
+  "owner": {
+    "name": "Mitch Harris",
+    "email": "mitch@ship30for30.com"
+  },
+  "metadata": {
+    "description": "Supabase superpowers for Claude Cowork. Build edge functions, debug failures, ship real infrastructure — all from natural language, no terminal.",
+    "version": "1.0.0",
+    "pluginRoot": "./plugins"
   },
   "plugins": [
     {
