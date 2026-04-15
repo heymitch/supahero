@@ -1,13 +1,6 @@
 ---
 name: edge-fn
-description: >
-  Build and deploy a Supabase edge function from a five-field spec.
-  Picks the right production template (webhook, cron fetcher, AI wrapper,
-  embedding generator, notification dispatcher), customizes it to the
-  spec, and deploys via the Supabase MCP. Returns a live function URL and
-  a test command. Triggered by "build an edge function", "deploy an edge
-  function", "ship a supabase function", "new edge function", "I need an
-  edge function that", "spec an edge function".
+description: Build and deploy a Supabase edge function from a five-field spec. Picks the right production template (webhook, cron fetcher, AI wrapper, embedding generator, notification dispatcher), customizes it to the spec, and deploys via the Supabase MCP. Returns a live function URL and a test command. Triggered by "build an edge function", "deploy an edge function", "ship a supabase function", "new edge function", "I need an edge function that", "spec an edge function".
 user-invocable: true
 ---
 

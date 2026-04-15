@@ -1,11 +1,6 @@
 ---
 name: edge-fn-doctor
-description: >
-  Diagnose a failing Supabase edge function. Pulls recent logs via the
-  Supabase MCP, pattern-matches against 10 common failure modes, and
-  proposes a specific fix. Triggered by "edge function is broken",
-  "edge function not working", "diagnose my edge function", "why is my
-  edge function failing", "debug edge function", "edge function error".
+description: Diagnose a failing Supabase edge function. Pulls recent logs via the Supabase MCP, pattern-matches against 10 common failure modes, and proposes a specific fix. Triggered by "edge function is broken", "edge function not working", "diagnose my edge function", "why is my edge function failing", "debug edge function", "edge function error".
 user-invocable: true
 ---
 
