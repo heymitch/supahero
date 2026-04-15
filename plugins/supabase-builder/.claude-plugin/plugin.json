@@ -1,0 +1,16 @@
+{
+  "name": "supabase-builder",
+  "version": "1.0.0",
+  "description": "Production-ready Supabase edge function templates + intelligent diagnostics. /edge-fn takes a 5-field spec and ships a deployed function via Supabase MCP. /edge-fn-doctor diagnoses failures from logs using a library of 10 common patterns.",
+  "author": {
+    "name": "Mitch Harris"
+  },
+  "license": "SEE LICENSE IN LICENSE.md",
+  "keywords": [
+    "supabase",
+    "edge-functions",
+    "infrastructure",
+    "vip",
+    "supahero"
+  ]
+}
